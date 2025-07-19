@@ -1,0 +1,4 @@
+name: Statistic Tile Card
+description: A custom tile-style card to show statistics.
+type: module
+url: /hacsfiles/statistic-tile-card/statistic-tile-card.js
